@@ -15,7 +15,7 @@
     - [‼️ Prerequisites](#bangbang-prerequisites)
     - [⚙️ Installation](#gear-installation)
     - [🏃 Run Locally](#runner-run-locally)
-3. [Challenge](#trophy-challenge)
+3. [🏆 Challenge](#trophy-challenge)
     - [🌍 Real World Use Case](#globe_with_meridians-real-world-use-case)
     - [✅ Objective](#dart-objective)
         - [📜 User Stories](#story-user-stories)
